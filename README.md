@@ -1,4 +1,3 @@
-# Xay-dung-chatbot-ho-tro-dat-phong-khach-san
 # Xây dựng chatbot hỗ trợ đặt phòng khách sạn
 
 
