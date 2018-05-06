@@ -16,3 +16,5 @@ Link project Web Service: https://github.com/15110150/SoHot-axsx
 
 Link project Chatbot: https://github.com/15110064/StupidBotMessengerMultiDialogs
 
+Chatbot đã được triển khai lên Messenger tại địa chỉ: https://www.facebook.com/messages/t/2040367372848540. Vì Chatbot vẫn trong giai đoạn thử nghiệm, cho nên người dùng cần phải yêu cầu quyền thử nghiệm bằng việc liên hệ với admin page.
+
